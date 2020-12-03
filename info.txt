@@ -1,0 +1,3 @@
+username = Hannah
+password = 5ZA96LhI9FoK8tRC
+Db conection = mongodb+srv://Hannah:<password>@cluster0.kt08i.mongodb.net/<dbname>
